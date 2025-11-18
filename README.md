@@ -4,14 +4,6 @@ This repository contains the code for our paper:
 Emergency Events Traffic Flow Forecasting Using Text-Prompt-Guided Multimodal Large Language Models
 
 
-
-
-## Abstract
-
-  Emergency events like traffic accidents and natural disasters frequently cause severe disruptions to urban traffic patterns, posing challenges to conventional forecasting methods based on historical data. Recent progress has explored integrating auxiliary textual information from social media, news reports, and incident details to enhance forecasting models. However, these approaches often fail to effectively align semantic context from textual data with the spatio-temporal patterns in urban traffic flow. To bridge this disparity, we propose a novel framework called TPGM-LLM, which leverages text-prompt-guided multimedia large language models to dynamically assimilate real-time data, including incident reports, traffic sensors, and weather conditions. Specifically, the proposed framework integrates a pre-trained LLM-based text encoder to interpret descriptions of emergency events as semantic prompts.Furthermore, it incorporates a dynamic spatio-temporal hypergraph module that employs FastDTW to capture non-local dependencies among different road segments. Additionally, a multimodal feature extraction LLM is utilized to merge textual guidance with traffic dynamics in a hierarchical manner, enhancing the accuracy of long-term traffic forecasting.Experimental results on the Beijing Text-Traffic dataset (BjTT) demonstrate that the proposed model outperforms existing methods, highlighting its effectiveness in complex and dynamic traffic situations.
-
-
-
 ## Usage
 
 ### Datasets
