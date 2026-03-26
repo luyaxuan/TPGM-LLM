@@ -17,8 +17,8 @@ Emergency events like traffic accidents and natural disasters frequently cause s
 ## 🏗️ Framework
 
 <p align="center">
-  <a href="./frame_new.png">
-    <img src="./frame_new.png" alt="Overall Framework of TPGM-LLM" width="900">
+  <a href="./frame.png">
+    <img src="./frame.png" alt="Overall Framework of TPGM-LLM" width="900">
   </a>
   <br>
   <em>Figure 1: Overall architecture of the proposed TPGM-LLM framework.</em>
